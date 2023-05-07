@@ -1,5 +1,4 @@
-export const BASE_URL = "http://3.133.224.83"
-// export const BASE_URL = "http://192.168.1.6:5000"
+export const BASE_URL = "BASEurl"
 export const PARTNER_REQUEST = BASE_URL + "/api/partnerrequest/";
 export const RESTAURANT_URL = BASE_URL + "/api/newrest/";
 export const RESTAURANT_LOGIN = BASE_URL + "/api/newrest/login/";
